@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "TestMQTT",
+			"path": "TestMQTT"
+		},
+		{
+			"name": "TestHTTP",
+			"path": "TestHTTP"
+		}
+	],
+	"settings": {}
+}
